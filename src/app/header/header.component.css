@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Jersey+10&family=Space+Grotesk:wght@300..700&display=swap');
+
 header {
     background-color: #586A6A;
     position: fixed;
@@ -10,7 +12,8 @@ header {
   }
   
   .header {
+    font-family: "Jersey 10", sans-serif;
     font-weight: 400;
     font-style: normal;
-    font-size: 3em;
+    font-size: 2em;
   }
