@@ -5,8 +5,25 @@
   }
   
   .main-content {
-    flex-grow: 1;
-    padding-top: 70px;
-    width: 100%;
+    display: flex;
+    flex-direction: row;
+    margin-top: 200px;
+    margin-left: 2em;
+    margin-right: 2em;
   }
+
+  .bars {
+    display: flex;
+    flex-direction: row;
+    margin-top: 1em;
+    width: 70svw;
+    align-content: center;
+    gap: 5em;
+}
+
+
+
+.bars div {
+    filter: drop-shadow(0px 4px 4px #000000);
+}
   

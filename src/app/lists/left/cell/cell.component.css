@@ -1,0 +1,12 @@
+.cell {
+    width: 70%;
+    height: 10em;
+    background-color: #B9A394;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    border-radius: 30px;
+    transition: 0.3s;
+    width: 250px;
+}

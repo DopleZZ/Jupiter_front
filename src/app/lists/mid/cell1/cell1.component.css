@@ -1,0 +1,11 @@
+.mcell {
+    width: 70%;
+    height: 50em;
+    background-color: #B9A394;
+    margin: 15px auto 20px;
+    position: relative;
+    border-radius: 30px;
+    transition: 0.3s;
+    width: 600px;
+    height: 300px;
+}
